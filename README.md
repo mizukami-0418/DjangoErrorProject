@@ -1,0 +1,2 @@
+# DjangoErrorProject
+Djangoのエラーハンドリングのサンプルコードです
